@@ -13,6 +13,5 @@ Bin-Android/
 *.user
 *.swp
 
-#引用github
-Assets/AnimationTools/
+#引用github.meta
 Assets/AnimationTools.meta
